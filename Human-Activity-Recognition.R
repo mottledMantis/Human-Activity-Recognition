@@ -82,4 +82,3 @@ while (j < nrow(all_data)) {
   }
 j <- j + 1
 }
-print(sub("^..", "", "1 ghd"))
